@@ -9,7 +9,8 @@
 
 
 
-      <img src="https://avatars.githubusercontent.com/u/183883475?v=4">
+     ![<Badge Name>](https://img.shields.io/badge/<Badge Text>-<Background Color>?style=for-the-badge&logo=<Icon Name>&logoColor=<Logo Color>)
+
 
 
 
