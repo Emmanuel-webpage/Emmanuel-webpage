@@ -8,9 +8,11 @@
 
 
 
-https://img.shields.io/badge/hello-8A2BE2
+
 
   ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+    ![github](https://img.shields.io/badge/hello%20there%20-8A2BE2)]
+  
   https://img.shields.io/badge/:badgeContent
 
 
