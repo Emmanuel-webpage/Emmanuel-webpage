@@ -10,10 +10,13 @@
 
 
 
-  ![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
-    ![github](https://img.shields.io/badge/hello%20there%20-8A2BE2)]
+
+    ![github](https://img.shields.io/badge/hello%20there%20-8A2BE2)
+[![emmanuel's github trophy](https://github-profile-trophy.vercel.app/?username=Emmanuel-webpage&row=1)](https://github.com/ryo-ma/github-profile-trophy)
+[![emmanuel's github stats](https://github-readme-stats.vercel.app/api?username=Emmanuel-webpage&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
+[![emmanuel's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Emmanuel-webpage&theme=blue-green)](https://github.com/anuraghazra/github-readme-stats)
   
-  https://img.shields.io/badge/:badgeContent
+ 
 
 
 
