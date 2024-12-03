@@ -3,9 +3,11 @@
 - 🌱 I’m currently learning ...
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
-- 😄 Pronouns: ...gzGHAxfggucfhtshifr gk jlqx2e   1
+- 😄 Pronouns: ...
+- 
 
-
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 
 
 
